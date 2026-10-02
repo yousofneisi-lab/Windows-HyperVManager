@@ -19,3 +19,6 @@ Ein interaktives PowerShell-Skript zur vereinfachten Verwaltung und Automatisier
 
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 .\Windows-HyperVManager.ps1
+
+## Lizenz
+Dieses Projekt steht unter der MIT-Lizenz.
